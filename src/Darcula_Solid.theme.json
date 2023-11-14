@@ -1,5 +1,5 @@
 {
-  "name": "Darcula Solid",
+  "name": "Darcula Solid 2",
   "dark": true,
   "author": "Vecheslav Druzhbin",
   "editorScheme": "/Darcula_Solid.xml",
@@ -8,7 +8,7 @@
       "background": "#252526",
       "disabledBackground": "#252526",
       "inactiveBackground": "#323335",
-      "selectionBackground": "#313234",
+      "selectionBackground": "#293d65",
       "selectionInactiveBackground": "#313234",
       "lightSelectionBackground": "#353638",
       "lightSelectionInactiveBackground": "#252526",
